@@ -11,3 +11,8 @@ y(t) = B * sin(b * t)
 In this simulation, A = B and δ = 0.
 
 You can run the code directly. Make sure you have pygame installed.
+
+
+https://github.com/HanTheDestroyer/Lissajous_Figures/assets/123021973/462e822f-a90d-4a69-bf12-f2cafe8f60a8
+
+
